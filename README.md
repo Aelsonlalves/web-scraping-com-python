@@ -23,4 +23,3 @@ A página da qual foram extraídos os dados é:
 ## 3 - Notebook
 
 O notebook contendo o código do web scraping você pode encontrar abaixo:
-web_scraping_com_python.py
