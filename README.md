@@ -24,4 +24,4 @@ A página da qual foram extraídos os dados é:
 
 O notebook contendo o código do web scraping você pode encontrar abaixo: 
 
-https://www.notion.so/Web-scraping-com-BeautifulSoup-bda85433a1c44db8a65b86926a4a5d1f?pvs=4#00dbf3ac04634664b36457a10787e367
+https://github.com/Aelsonlalves/web-scraping-com-python/blob/main/Notebook/web_scraping_com_python.py
