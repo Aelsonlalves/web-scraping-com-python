@@ -22,6 +22,6 @@ A página da qual foram extraídos os dados é:
 
 ## 3 - Notebook
 
-O notebook contendo o código do web scraping você pode encontrar abaixo:
+O notebook contendo o código do web scraping você pode encontrar abaixo: 
 
-https://github.com/Aelsonlalves/web-scraping-com-python/blob/main/Notebook/web_scraping_com_python.py
+[](https://github.com/Aelsonlalves/web-scraping-com-python/blob/main/Notebook/web_scraping_com_python.py)
